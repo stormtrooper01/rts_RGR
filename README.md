@@ -1,2 +1,2 @@
-# rts_RGR
-Final work for the intelligent embedded systems class.
+# 💻 Final work 
+> The last work for the intelligent embedded systems class
